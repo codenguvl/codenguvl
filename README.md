@@ -19,10 +19,6 @@
 
 - 📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒 **tripvang123@gmail.com**
 
-<h3 align="left">𝒞𝑜𝓃𝓃𝑒𝒸𝓉 𝓌𝒾𝓉𝒽 𝓂𝑒:</h3>
-<p align="left">
-<a href="https://instagram.com/codenguvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codenguvl" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈:</h3>
 <div>
