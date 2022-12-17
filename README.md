@@ -1,4 +1,6 @@
-<h1 align="center">𝓱𝓮𝓵𝓵𝓸 𝔀𝓸𝓻𝓵𝓭, 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓬𝓸𝓭𝓮𝓷𝓰𝓾𝓿𝓵</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">𝐼 𝒶𝓂 𝒶 𝒻𝓇𝑜𝓃𝓉 𝑒𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝒱𝒾𝑒𝓉𝓃𝒶𝓂</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
