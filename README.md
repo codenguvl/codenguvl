@@ -24,7 +24,7 @@
 <div>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
