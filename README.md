@@ -1,8 +1,8 @@
 ## Xin chào tất cả mọi người! 👋 
 
-Mình là codenguvl, một frontend freelancer và tác giả blog linh tinh. 
+Mình là codenguvl, mình hiện tại đang là frontend freelancer, ngoài ra sở thích của mình là viết linh tinh. 
 
-## Các dịch vụ mình cung cấp
+## Công việc của mình hiện tại
 
 Mình có thể hỗ trợ các công việc như sau:
 
@@ -14,9 +14,9 @@ Mình có thể hỗ trợ các công việc như sau:
 
 Bạn có thể liên lạc với mình qua các kênh sau:
 
-- [Facebook](link_facebook) (icon facebook)
-- [Instagram](link_instagram) (icon instagram)
-- [LinkedIn](link_linkedin) (icon linked)
+- [Facebook]([link_facebook](https://www.facebook.com/codenguvl))
+- [Instagram]([link_instagram](https://www.instagram.com/codenguvl/))
+- [LinkedIn](linkedin.com/in/ngo-thanh-tan)
 
 ## Ngôn ngữ và công nghệ
 
