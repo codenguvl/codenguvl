@@ -22,21 +22,22 @@ Bạn có thể liên lạc với mình qua các kênh sau:
 
 Mình sử dụng các ngôn ngữ và công nghệ sau đây:
 
-- HTML (icon HTML)
-- CSS (icon CSS)
-- JavaScript (icon JavaScript)
-- TypeScript (icon TypeScript)
-- ReactJS (icon ReactJS)
-- Node.js (icon Node.js)
-- Express.js (icon Express.js)
-- MongoDB (icon MongoDB)
-- MySQL (icon MySQL)
+- HTML
+- CSS
+- JavaScript
+- PHP
+- TypeScript
+- ReactJS
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
 
-## Series viết
+## Series mình viết
 
-Dưới đây là danh sách các Series mà mình đã viết, bạn có thể tham khảo:
+Dưới đây là danh sách các series mà mình đã viết, bạn có thể tham khảo:
 
-- [Series phân tích thiết kế hệ thống] (hình + text)
+- [Series phân tích thiết kế hệ thống] (https://github.com/codenguvl)
 
 Cảm ơn bạn đã ghé thăm! Nếu có bất kỳ câu hỏi hoặc yêu cầu nào, đừng ngần ngại liên hệ với mình.
 
