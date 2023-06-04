@@ -14,8 +14,8 @@ Mình có thể hỗ trợ các công việc như sau:
 
 Bạn có thể liên lạc với mình qua các kênh sau:
 
-- [Facebook]([link_facebook](https://www.facebook.com/codenguvl))
-- [Instagram]([link_instagram](https://www.instagram.com/codenguvl/))
+- [Facebook](https://www.facebook.com/codenguvl)
+- [Instagram](https://www.instagram.com/codenguvl)
 - [LinkedIn](linkedin.com/in/ngo-thanh-tan)
 
 ## Ngôn ngữ và công nghệ
