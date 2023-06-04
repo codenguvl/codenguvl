@@ -1,6 +1,4 @@
-# README
-
-Xin chào tất cả mọi người! 👋 
+## Xin chào tất cả mọi người! 👋 
 
 Mình là codenguvl, một frontend freelancer và tác giả blog linh tinh. 
 
