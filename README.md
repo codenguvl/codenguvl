@@ -6,7 +6,7 @@ Mình là codenguvl, mình hiện tại đang là frontend freelancer, ngoài ra
 
 Mình có thể hỗ trợ các công việc như sau:
 
-- Nhận hỗ trợ bài tập đồ án.
+- Nhận hỗ trợ bài tập, đồ án.
 - Nhận dạy kèm lập trình web (PHP, ReactJS) và phân tích thiết kế hệ thống.
 - Nhận viết code landing page cho doanh nghiệp với thiết kế độc quyền, SEO website...
 
@@ -20,7 +20,7 @@ Bạn có thể liên lạc với mình qua các kênh sau:
 
 ## Ngôn ngữ và công nghệ
 
-Mình sử dụng các ngôn ngữ và công nghệ sau đây:
+Dưới đây là các ngôn ngữ và công nghệ mà mình sử dụng:
 
 - HTML
 - CSS
