@@ -8,7 +8,7 @@ Mình có thể hỗ trợ các công việc như sau:
 
 - Nhận hỗ trợ bài tập đồ án.
 - Nhận dạy kèm lập trình web (PHP, ReactJS) và phân tích thiết kế hệ thống.
-- Nhận viết code landing page cho doanh nghiệp với thiết kế độc quyền...
+- Nhận viết code landing page cho doanh nghiệp với thiết kế độc quyền, SEO website...
 
 ## Liên lạc
 
