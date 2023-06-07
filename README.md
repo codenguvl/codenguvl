@@ -37,7 +37,7 @@ Dưới đây là các ngôn ngữ và công nghệ mà mình sử dụng:
 
 Dưới đây là danh sách các series mà mình đã viết, bạn có thể tham khảo:
 
-- [Series phân tích thiết kế hệ thống] (https://github.com/codenguvl)
+- [Series phân tích thiết kế hệ thống] (https://github.com/codenguvl/phan-tich-va-thiet-ke-he-thong)
 
 Cảm ơn bạn đã ghé thăm! Nếu có bất kỳ câu hỏi hoặc yêu cầu nào, đừng ngần ngại liên hệ với mình.
 
