@@ -39,7 +39,7 @@ Dưới đây là danh sách các series mà mình đã viết, bạn có thể 
 
 - [Series phân tích thiết kế hệ thống](https://github.com/codenguvl/phan-tich-va-thiet-ke-he-thong)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 Cảm ơn bạn đã ghé thăm! Nếu có bất kỳ câu hỏi hoặc yêu cầu nào, đừng ngần ngại liên hệ với mình.
 
