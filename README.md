@@ -2,24 +2,6 @@
 
 Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã làm việc với PHP, ReactJS, NextJS, NodeJS, WordPress… Rất cảm ơn bạn đã ghé thăm profile của mình.
 
-## Feedback từ Khách Hàng
-
-![Feedback 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/1d7a524d-70c7-4dc2-8815-1147e5a209a8/1687531208921.jpg)
-![Feedback 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/cfab5956-6730-4807-b362-30da4538c193/1687531295223.jpg)
-![Feedback 3](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/46723dab-8319-4d4e-b3c3-768a48f54d0d/1687531266057.jpg)
-![Feedback 4](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/e97d122d-7a59-4066-925e-394986f6fc63/1687530760063.jpg)
-![Feedback 5](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/100773d3-6565-4271-a014-fc5061560e7b/1687530858517.jpg)
-![Feedback 6](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/11b79160-e7fe-40bc-aedd-9428a29807ef/1687530951590.jpg)
-![Feedback 7](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/b071548f-279c-45d7-b3f7-f7a9541ed148/1687531021357.jpg)
-![Feedback 8](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/9d552d60-acc9-4eb7-942d-6f595d4f90b7/1687530393772.jpg)
-![Feedback 9](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/35b3045d-ffba-4763-99b5-7a5ff11f0ae0/1687530467574.jpg)
-![Feedback 10](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/60ffd085-1dbb-4223-b4a8-925ad1f7c8a1/1687530591628.jpg)
-![Feedback 11](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/b3329188-81ad-4512-965d-fa9b27592a5a/1687530652038.jpg)
-![Feedback 12](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/b58e85c5-e257-4d10-a1cc-c4a693f3fa64/1687530043756.jpg)
-![Feedback 13](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/189c2720-7e52-42d2-85df-901ce64f249d/1687529782859.jpg)
-![Feedback 14](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/720ea877-92aa-40c8-89b8-6db6af614e55/1687530146450.jpg)
-![Feedback 15](https://prod-files-secure.s3.us-west-2.amazonaws.com/5945dfda-257f-4886-8402-37f751159faa/e25d6a19-7840-4cbb-92bb-6a4ddfb42fab/1687530242956.jpg)
-
 ## Mình có nhận hỗ trợ
 
 ### 🎓 CODE THUÊ – CODE BÁO CÁO, ĐỒ ÁN:
