@@ -24,22 +24,22 @@ Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, mình
 ## Quy trình làm việc của mình :
 
 1. **Nhận Yêu Cầu:**
-   - Trao đổi để nắm rõ yêu cầu của bạn, có thể gửi file word hoặc file text để note đầy đủ nội dung cần hỗ trợ.
+   - Trao đổi để nắm rõ yêu cầu của bạn, có thể gửi file word hoặc file text để note đầy đủ nội dung mà bạn cần mình hỗ trợ.
 
 2. **Thanh Toán Trước 30%:**
-   - Thanh toán trước 30% trước khi bắt đầu code, đảm bảo sự tin tưởng và an tâm khi mình nhận việc.
+   - Thanh toán giúp mình 30% trước khi mình bắt đầu tiến hành code cho bạn nhé.
 
 3. **Thực Hiện và Cập Nhật Tiến Độ:**
-   - Bắt đầu và cập nhật thường xuyên để bạn luôn nắm bắt tình hình tiến độ công việc.
+   - Mình sẽ cập nhật thường xuyên để bạn luôn nắm bắt tình hình tiến độ công việc.
 
 4. **Gửi Code và Hoàn Thành Nốt Phí:**
-   - Gửi code và khi bạn kiểm tra xong, thanh toán phần còn lại để hoàn tất công việc.
+   - Khi mình gửi code và bạn kiểm tra xong, bạn sẽ thanh toán phần còn lại để hoàn tất công việc.
 
 Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
 
 ## 🔒 Bảo Mật Thông Tin:
 
-- Mình sẽ đảm bảo giữ kín thông tin của khách hàng trong thời gian làm việc và kể cả khi hoàn thành xong việc.
+- Mình sẽ bảo vệ thông tin của khách hàng trong thời gian làm việc và kể cả khi hoàn thành xong công việc.
 - Khi kết bạn trao đổi với mình thì bạn hãy dùng nick chính để thoải mái trao đổi hơn nhé.
 
 ## Liên hệ
