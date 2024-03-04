@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/font=Roboto&weight=900&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ch%C3%A0o+M%E1%BB%8Di+Ng%C6%B0%E1%BB%9Di!+%F0%9F%91%8B;+M%C3%ACnh+L%C3%A0+Codenguvl!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ch%C3%A0o+M%E1%BB%8Di+Ng%C6%B0%E1%BB%9Di!+%F0%9F%91%8B;+M%C3%ACnh+L%C3%A0+Codenguvl!;" />
 </h1>
 
 Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, mình đã làm việc với PHP, ReactJS, NextJS, NodeJS, WordPress… Rất cảm ơn bạn đã ghé thăm github của mình.
