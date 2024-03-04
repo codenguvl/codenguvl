@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=BeVietnamPro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Chào+Mọi+Người!+👋;+Mình+Là+Codenguvl!;" />
 </h1>
 
-Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã làm việc với PHP, ReactJS, NextJS, NodeJS, WordPress… Rất cảm ơn bạn đã ghé thăm github của mình.
+Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, mình đã làm việc với PHP, ReactJS, NextJS, NodeJS, WordPress… Rất cảm ơn bạn đã ghé thăm github của mình.
 
 ## Mình có nhận hỗ trợ
 
@@ -30,10 +30,10 @@ Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã 
    - Thanh toán trước 30% trước khi bắt đầu code, đảm bảo sự tin tưởng và an tâm khi mình nhận việc.
 
 3. **Thực Hiện và Cập Nhật Tiến Độ:**
-   - Bắt đầu và cập nhật tiến độ thường xuyên để bạn luôn nắm bắt tình hình.
+   - Bắt đầu và cập nhật thường xuyên để bạn luôn nắm bắt tình hình tiến độ công việc.
 
 4. **Gửi Code và Hoàn Thành Nốt Phí:**
-   - Gửi code và khi bạn kiểm tra xong, thanh toán phần còn lại để hoàn tất quá trình làm việc.
+   - Gửi code và khi bạn kiểm tra xong, thanh toán phần còn lại để hoàn tất công việc.
 
 Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
 
