@@ -15,6 +15,13 @@ Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã 
 
 - Mình không chỉ nhận CODE THUÊ – CODE BÁO CÁO, ĐỒ ÁN mà còn nhận dạy kèm về lập trình cơ bản - lập trình web cơ bản - lập trình frontend web cơ bản và nâng cao.
 
+<h2 align="center">⚒️ Ngôn ngữ và công nghệ mình sử dụng ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,wordpress" />
+    <img src="https://skillicons.dev/icons?i=materialui,tailwind,styledcomponents,sass,bootstrap,mysql,mongodb,docker,firebase,kubernetes" /><br>
+</div>
+
 ## Quy trình làm việc của mình :
 
 1. **Nhận Yêu Cầu:**
