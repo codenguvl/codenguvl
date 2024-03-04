@@ -38,12 +38,11 @@ Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
 
 ## Liên hệ
 
- <img width=390 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> **Email:**
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  **Email:**
 - Gmail: [codenguvl@gmail.com](mailto:codenguvl@gmail.com)
 
-📘 **Mạng xã hội:**
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>  **Facebook**
 - Facebook: [codenguvl](https://www.facebook.com/codenguvl)
-- Github: [codenguvl](https://github.com/codenguvl)
 
 🎶 **Mạng xã hội khác:**
 - TikTok: [codenguvl](https://www.tiktok.com/@codenguvl)
