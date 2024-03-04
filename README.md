@@ -9,11 +9,10 @@ Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã 
 ### 🎓 CODE THUÊ – CODE BÁO CÁO, ĐỒ ÁN:
 
 - Nếu bạn đang gặp khó khăn với bài tập, báo cáo, đồ án liên quan đến web ( HTML, CSS, Javascript, ReactJS, NextJS, PHP, NodeJS, WordPress, Phân tích thiết kế hệ thống…) thì hãy liên hệ với mình để mình hỗ trợ nhé.
-- Nếu bạn quan tâm đến giá cả ? hoặc là lo sợ về mức phí quá cao thì đừng lo, mình sẽ linh hoạt theo budget ( ngân sách ) của bạn, mức phí sẽ hoàn toàn quyết định và việc này chỉ áp dụng khi bạn còn đang là sinh viên.
 
 ### 👨‍🏫 DẠY KÈM LẬP TRÌNH:
 
-- Mình không chỉ nhận CODE THUÊ – CODE BÁO CÁO, ĐỒ ÁN mà còn nhận dạy kèm về lập trình cơ bản - lập trình web cơ bản - lập trình frontend web cơ bản và nâng cao.
+- Mình không chỉ nhận CODE THUÊ – CODE BÁO CÁO, ĐỒ ÁN mà còn nhận dạy kèm về lập trình cơ bản - lập trình web cơ bản - lập trình frontend nâng cao.
 
 <h2 align="center">⚒️ Ngôn ngữ và công nghệ mình sử dụng ⚒️</h2>
 <br/>
@@ -41,7 +40,7 @@ Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
 ## 🔒 Bảo Mật Thông Tin:
 
 - Mình sẽ đảm bảo giữ kín thông tin của khách hàng trong thời gian làm việc và kể cả khi hoàn thành xong việc.
-- hi kết bạn trao đổi với mình thì bạn hãy dùng nick chính để thoải mái trao đổi hơn nhé.
+- Khi kết bạn trao đổi với mình thì bạn hãy dùng nick chính để thoải mái trao đổi hơn nhé.
 
 ## Liên hệ
 
