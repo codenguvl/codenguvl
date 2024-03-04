@@ -38,7 +38,7 @@ Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
 
 ## Liên hệ
 
-📧 **Email:**
+ <img width=390 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> **Email:**
 - Gmail: [codenguvl@gmail.com](mailto:codenguvl@gmail.com)
 
 📘 **Mạng xã hội:**
