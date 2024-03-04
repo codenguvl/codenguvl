@@ -32,7 +32,7 @@ Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, mình
 3. **Thực Hiện và Cập Nhật Tiến Độ:**
    - Mình sẽ cập nhật thường xuyên để bạn luôn nắm bắt tình hình tiến độ công việc.
 
-4. **Gửi Code và Hoàn Thành Nốt Phí:**
+4. **Gửi Code và Hoàn Thành Phí:**
    - Khi mình gửi code và bạn kiểm tra xong, bạn sẽ thanh toán phần còn lại để hoàn tất công việc.
 
 Mình cam kết đúng thời gian và yêu cầu bạn đề ra. 🚀🤝
