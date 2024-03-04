@@ -1,4 +1,6 @@
-# Xin chào mọi người! 🚀
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Chào+Mọi+Người!+👋;+Mình+Là+Codenguvl!;" />
+</h1>
 
 Mình là Tân, một Freelancer Web Developer với 2 năm kinh nghiệm, đã làm việc với PHP, ReactJS, NextJS, NodeJS, WordPress… Rất cảm ơn bạn đã ghé thăm profile của mình.
 
